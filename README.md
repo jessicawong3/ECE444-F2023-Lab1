@@ -9,3 +9,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 # Activity 2
 ![image](https://github.com/jessicawong3/ECE444-F2023-Lab1/assets/71729026/4763139b-cd4b-446f-bcca-bb52ecc1e4d7)
 
+# Activity 3
+![image](image.png)
+
